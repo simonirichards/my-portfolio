@@ -105,3 +105,4 @@ dist
 
 #Custom Excludes
 /dist/**/*
+/aws/**/*
