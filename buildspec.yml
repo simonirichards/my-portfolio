@@ -2,6 +2,8 @@ version: 0.1
 
 phases:
   pre_build:
+    runtime-versions:
+      nodejs: 10
     commands:
       - npm install
       - npm test
